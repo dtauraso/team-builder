@@ -39,4 +39,18 @@ label {
 
 
 }
+.teamMembers {
 
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: 10px auto;
+    border: 1px solid black;
+
+}
+.teamMember{
+    /* width: 200px; */
+    text-align: left;
+    border: 1px solid black;
+
+}
